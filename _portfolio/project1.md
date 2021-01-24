@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Covid-19 Small Business Survey
 subtitle: Beginning in March, 2020, we surveyed over 40,000 small business owners in the United States and South America. 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/05-thumbnail.jpg
 alt: image alt text
 
 ---
