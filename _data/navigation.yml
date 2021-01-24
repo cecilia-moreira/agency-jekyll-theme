@@ -2,8 +2,8 @@ nav:
     - title: "About"
     section: timeline
     
- # - title: "Services"
-  #  section: services
+  - title: "Services"
+    section: services
 
   - title: "Projects"
     section: portfolio
@@ -11,8 +11,8 @@ nav:
   - title: "ASHE"
     section: team
 
- # - title: "Contact"
-  #  section: contact
+  - title: "Contact"
+    section: contact
 
- # - title: "Theme Source"
- #  url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "Theme Source"
+   url: https://github.com/raviriley/agency-jekyll-theme/
