@@ -5,8 +5,8 @@ image: assets/img/portfolio/05-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: CCAS Project! 
+  subtitle: PI: Chris Neilson
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
 First project description!
