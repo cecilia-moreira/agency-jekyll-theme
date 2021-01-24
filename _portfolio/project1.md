@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Covid-19 Small Business Survey
   subtitle: PIs: John Eric Humphries, Chris Neilson, Gabriel Ulyssea
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
   
 #what displays when the item is clicked:
 title: Covid-19 Small Business Survey
