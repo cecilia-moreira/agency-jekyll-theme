@@ -1,24 +1,24 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+  #  title: Welcome to our Studio!
+  #  text: It's Nice To Meet You
+  #  button: Tell Me More
+  #  buttonlink: "#services"
 
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+#services:
+    #title: "Services"
+   # text: "Lorem ipsum"
+   # section: services
+   # list:
+   #   - title: "E-Commerce"
+   #     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+   #     icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+   #   - title: "Responsive Design"
+   #     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+   #     icon: fas fa-laptop       
+   #   - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+   #     desc: "Your description here, full **Markdown** support"
+   #     icon: fab fa-markdown
+#
 portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -28,7 +28,7 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "I am a Senior Research Specialist in the Industrial Relations Section at Princeton University where I assist Prof. Christopher Neilson with projects in the field of education economics. Before joining the IR Section, I worked as a Research Assistant at the Federal Reserve Bank of Chicago. I am a graduate of Texas A&M University, member of the American Economic Association Summer Training Program class of 2017, and a 2020 NSF Graduate Research Fellowship recipient."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -62,23 +62,23 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#clients:
+   # section: clients
+   # max-height: 100px
+   # horizontal-scrolling: "" #"yes/no"
+   # list:
+   #   - title: "envato"
+    #    url: https://github.com/raviriley/agency-jekyll-theme
+    #    logo: assets/img/clients/envato.jpg
+   #   - title: "designmodo"
+   #     url: https://github.com/raviriley/agency-jekyll-theme
+   #     logo: assets/img/clients/designmodo.jpg
+  #    - title: "themeforest"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/themeforest.jpg
+  #    - title: "Creative Market"
+  #      url: https://github.com/raviriley/agency-jekyll-theme
+  #      logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
@@ -117,24 +117,24 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
+#contact:
+#    title: "Contact Us"
+#    text: "Lorem ipsum or call 123456789"
+#    section: contact
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/cmoreira_econ
         icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      #- url: https://facebook.com
+      #  icon: "fab fa-facebook-f"
+      #- url: https://linkedin.com
+      #  icon: "fab fa-linkedin-in"
+      - url: https://github.com/cecilia-moreira
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+     # - url: https://instagram.com
+    #    icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
