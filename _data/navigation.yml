@@ -2,14 +2,17 @@ nav:
   #- title: "Services"
   #  section: services
 
-  - title: "Portfolio"
-    section: portfolio
+ # - title: "Portfolio"
+ #   section: portfolio
     
   - title: "About"
     section: timeline
+    
+  - title: "Projects"
+    section: portfolio
 
-  #- title: "Team"
-  #  section: team
+  - title: "ASHE Pipeline"
+    section: team
 
   #- title: "Contact"
   #  section: contact
