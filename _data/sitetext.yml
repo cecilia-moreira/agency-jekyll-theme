@@ -21,7 +21,7 @@
    
 portfolio:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Check out a few of the projects I've been a research assitant on!"
     section: portfolio
     closebutton: "Close Project"
     
