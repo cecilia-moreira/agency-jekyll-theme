@@ -20,7 +20,7 @@ header:
    #     icon: fab fa-markdown
    
 portfolio:
-    title: "Portfolio"
+    title: "Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
