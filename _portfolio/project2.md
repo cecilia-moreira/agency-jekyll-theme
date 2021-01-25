@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Chicago Schools
   subtitle: 
-  thumbnail: assets/img/portfolio/cps-enrollment-by-race.png
+  thumbnail: assets/img/portfolio/cps-similar-enrollment.png
   
 #what displays when the item is clicked:
 title: GoCPS - Enrollment in Chicago Public Schools
