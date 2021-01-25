@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Covid 19 Survey
-  subtitle: subtitle
+  subtitle: PIs: Humphries, Neilson, Ulyssea
   thumbnail: assets/img/portfolio/covid19sbs-awareness.png
   
 #what displays when the item is clicked:
-title: Title
+title: Covid 19 Small Business Survey
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/covid19sbs-awareness.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
