@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Covid 19 Survey
-  subtitle: PIs: Humphries, Neilson, Ulyssea
+  subtitle: 
   thumbnail: assets/img/portfolio/covid19sbs-awareness.png
   
 #what displays when the item is clicked:
