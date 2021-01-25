@@ -28,6 +28,7 @@ portfolio:
 
 timeline:
     title: "About" 
+    image: assets/img/timeline/1.jpg
     text: "I am a Senior Research Specialist in the Industrial Relations Section at Princeton University where I assist Prof. Christopher Neilson with projects in the field of education economics. Before joining the IR Section, I worked as a Research Assistant at the Federal Reserve Bank of Chicago. I am a graduate of Texas A&M University, member of the American Economic Association Summer Training Program class of 2017, and a 2020 NSF Graduate Research Fellowship recipient."
     section: timeline
     # left is the default
