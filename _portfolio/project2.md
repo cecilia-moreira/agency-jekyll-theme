@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/cps-enrollment-by-race.png
   
 #what displays when the item is clicked:
-title: GoCPS: Enrollment in Chicago Public Schools
+title: GoCPS - Enrollment in Chicago Public Schools
 subtitle: PIs - Drs. Lisa Barrow and Lauren Sartain
 image: assets/img/portfolio/cps-enrollment-by-race.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
