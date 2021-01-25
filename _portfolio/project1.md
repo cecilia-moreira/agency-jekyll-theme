@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Covid 19 Survey
   subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/covid19sbs-awareness
   
 #what displays when the item is clicked:
 title: Title
