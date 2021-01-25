@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Chicago Schools
+  title: CPS
   subtitle: 
   thumbnail: assets/img/portfolio/cps-similar-enrollment.png
   
