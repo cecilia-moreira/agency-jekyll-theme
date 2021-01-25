@@ -22,7 +22,9 @@ description: "Site description"
 author     : Cecilia Moreira 
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+   height: 14
+   
+   # 60 height in px, defaults to 52px
 
 analytics:
   google: "UA-175999695-1"
