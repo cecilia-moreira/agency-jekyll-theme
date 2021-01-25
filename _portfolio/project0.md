@@ -1,21 +1,14 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: School Choice
+  subtitle: 
+  thumbnail: assets/img/portfolio/ccas-he-adoption.png
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Adoption of Centralized School Choice
+subtitle: PIs - Prof. Christopher Neilson and Thomas Krussig
+image: assets/img/portfolio/ccas-he-adoption.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+In this project, we document the rise in adopton of centralized school choice mechanisms by investigation the education sector of over 140 countries. 
