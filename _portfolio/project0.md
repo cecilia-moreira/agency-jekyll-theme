@@ -11,4 +11,4 @@ image: assets/img/portfolio/ccas-he-adoption.png #main image, can be a link or a
 alt: image alt text
 
 ---
-In this project, we document the rise in adopton of centralized school choice mechanisms by investigation the education sector of over 140 countries. Learn more about the project here: https://www.ccas-project.org/
+In this project, we document the rise in adopton of centralized school choice mechanisms by investigating the education sector of over 140 countries. Learn more about the project here: https://www.ccas-project.org/
