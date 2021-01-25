@@ -13,4 +13,4 @@ alt: image alt text
 ---
 Use this area to describe your project. **Markdown** supported.
 
-Survey of over 40,000 small business owners throughout the United States, Latin and South America. Learn more about the project here: https://covid19sbs.org
+Survey of over 40,000 small business owners throughout the United States, Latin and South America. 
