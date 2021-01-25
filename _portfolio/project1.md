@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Covid 19 Small Business Survey
-subtitle: PIs: Humphries, Neilson, Ulyssea
+subtitle: PIs -  Humphries, Neilson, Ulyssea
 image: assets/img/portfolio/covid19sbs-awareness.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
