@@ -28,7 +28,10 @@ portfolio:
 
 timeline:
     title: "About" 
-    
+    <p style="font-size:42px; text-align:center"> 
+  <b>Cecilia Moreira</b>
+</p>
+<img src="/assets/img/portfolio/04-thumbnail.jpg" style="float:left; padding: 10px">
     text: "I am a Senior Research Specialist in the Industrial Relations Section at Princeton University where I assist Prof. Christopher Neilson with projects in the field of education economics. Before joining the IR Section, I worked as a Research Assistant at the Federal Reserve Bank of Chicago. I am a graduate of Texas A&M University, member of the American Economic Association Summer Training Program class of 2017, and a 2020 NSF Graduate Research Fellowship recipient."
     section: timeline
     # left is the default
