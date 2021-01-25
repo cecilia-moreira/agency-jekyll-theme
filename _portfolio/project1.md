@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
+  title: Covid 19 Survey
   subtitle: subtitle
   thumbnail: https://place-hold.it/400x300
   
